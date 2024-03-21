@@ -1,0 +1,1 @@
+In this repository, I have completed an assignment for Harvard's CS50X course that creates an application where you can buy and sell stocks. In this site, a database keeps track of the username and passswords, the account balance, and the trades sold and bought. View the App.py for the main source of the code.
